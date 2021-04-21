@@ -1,6 +1,10 @@
 # Human genome history tracker
 
 A quick script I've thrown together (for fun) to generate an animated QR gif file representing each iteration of major reference human genome releases.
+The original intent was to throw this onto the recent NFT art selling craze - but it's only right that all the data references and the (extrememly simple) script used for the generation of the gif should be available publicly.
+
+For a great description of NFT and its place in art market at the time of this writing (April 21 2021), please read this article.
+https://thatkimparker.medium.com/most-artists-are-not-making-money-off-nfts-and-here-are-some-graphs-to-prove-it-c65718d4a1b8
 
 Prerequisites are -
 
