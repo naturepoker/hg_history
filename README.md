@@ -1,4 +1,4 @@
-# hg History tracker
+# Human genome history tracker
 
 A quick script I've thrown together (for fun) to generate an animated QR gif file representing each iteration of major reference human genome releases.
 
