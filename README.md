@@ -3,13 +3,12 @@
 A quick script I've thrown together (for fun) to generate an animated QR gif file representing each iteration of major reference human genome releases.
 The original intent was to throw this onto the recent NFT art selling craze - but it's only right that all the data references and the (extrememly simple) script used for the generation of the gif should be available publicly.
 
-For a great description of NFT and its place in art market at the time of this writing (April 21 2021), please read this article.
-https://thatkimparker.medium.com/most-artists-are-not-making-money-off-nfts-and-here-are-some-graphs-to-prove-it-c65718d4a1b8
+For a great description of NFT and its place in art market at the time of this writing (April 21 2021), please read this [article](https://thatkimparker.medium.com/most-artists-are-not-making-money-off-nfts-and-here-are-some-graphs-to-prove-it-c65718d4a1b8).
 
-Prerequisites are -
+Prerequisites are -	  
 
-qrencode (apt-get install qrencode)
-imagemagick (apt-get install imagemagick)
+qrencode (apt-get install qrencode)	  
+imagemagick (apt-get install imagemagick)	  
 
 It's easy for us to discard older iterations of genomes and other research outputs as being deprecated - but I believe there's a historical value in preserving them, and potentially tracking what's really changed through the development of technology and even our way of thinking, the later of which is especially demonstrable in the case of the human genome project. Notable examples would be how hg1 started as an iteration of contigs, eventually arriving at full genome assemblies, and then subsequent reference versions introducing multiple analysis libraries (transcriptome, SNPs, updated via concept of patches to the main genome) found to be essential to understanding life on genomic level.
 
