@@ -1,10 +1,15 @@
 # hg History tracker
 
-A quick script I've thrown together to generate an animated QR gif file representing each iteration of major reference human genome releases.
+A quick script I've thrown together (for fun) to generate an animated QR gif file representing each iteration of major reference human genome releases.
+
+Prerequisites are -
+
+qrencode (apt-get install qrencode)
+imagemagick (apt-get install imagemagick)
 
 It's easy for us to discard older iterations of genomes and other research outputs as being deprecated - but I believe there's a historical value in preserving them, and potentially tracking what's really changed through the development of technology and even our way of thinking, the later of which is especially demonstrable in the case of the human genome project. Notable examples would be how hg1 started as an iteration of contigs, eventually arriving at full genome assemblies, and then subsequent reference versions introducing multiple analysis libraries (transcriptome, SNPs, updated via concept of patches to the main genome) found to be essential to understanding life on genomic level.
 
-![The hg releases compilation gif](hg_history_v1.gif)
+![The human genome releases compilation gif](hg_history_v1.gif)
 
 The gif output here is based on reference human genome release timeline from the UCSC repository (http://hgdownload.soe.ucsc.edu/downloads.html#human)
 
